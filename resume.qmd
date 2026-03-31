@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Melanie Anderson Resume
+title: Melanie Anderson
 ---
 # Melanie Anderson
 Business Analytics Major, Finance Minor, Data Science Certificate.
