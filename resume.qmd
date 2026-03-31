@@ -2,29 +2,54 @@
 layout: cv
 title: Melanie Anderson
 ---
-# Melanie Anderson
+# MELANIE ANDERSON
 Business Analytics Major, Finance Minor, Data Science Certificate.
 
 <div id="webaddress">
-<a href="mel.anderson4216@gmail.com">isaac@applesdofall.org</a>
+<a href="mel.anderson4216@gmail.com">mel.anderson4216@gmail.com</a>
 | <a href="linkedin.com/in/melanie-danielle-anderson/?skipRedirect=true">My LinkedIn page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="C:\Users\Melanie Anderson\OneDrive - BYU-Idaho\Other\Anderson.Resume.pdf">Download PDF</a>
 </div>
 
+## EDUCATION
+Bachelor of Science in Business Analytics 2020-2026 
+Brigham Young University-Idaho (Rexburg, ID)
+- Cumulative GPA: 3.96 
+- Tools & Technologies: Excel (VLOOKUP, PivotTables, charting), MySQL, RStudio, Python 
 
-## Currently
+## PROFESSIONAL EXPERIENCE
 
-Attending BYU-Idaho, studying business analytics.
+### FINANCE INTERN
+Ballet Etude (Rexburg, ID)
+- Built and maintained a grant and sponsor tracking database, improving efficiency in identifying and 
+pursuing funding opportunities. 
+- Conducted financial and data analysis to align grant applications with organizational budgets and 
+compliance requirements. 
+- Collaborated with a team of 4 to identify qualified funding sources and align proposals with sponsor 
+requirements. 
 
-### Interests
+### CAMPUS MATH TUTOR
+Brigham Young University-Idaho (Rexburg, ID)
+- Applied Excel to create models and dashboards that broke down complex problems into data-driven 
+solutions. 
+- Guided students through complex quantitative problems, emphasizing logical reasoning and data-driven 
+approaches. 
+- Strengthened students’ problem-solving skills through collaborative learning. 
 
-Merchandising, Product Development, Storytelling with Data
+### DATA ENTRY & REPORTING SPECIALIST
+Ophthalmic Billing Solutions (Ogden, UT)
+- Implemented structured templates that streamlined reporting workflows and reduced processing errors. 
+- Cleaned, validated, and organized large volumes of insurance claim data in Excel, ensuring accuracy and 
+data integrity. 
+- Extracted, processed, and analyzed claim outcomes to support reporting and financial tracking. 
 
 
-## Education
+## VOLUNTEER WORK
 
-`2022-2026`
-__Brigham Young University-Idaho__
-
-pdated: May 2013 -->
+### FULL TIME MISSIONARY
+The Church of Jesus Christ of Latter-day Saints (Tampa, FL) 
+- Delivered structured presentations and workshops, adapting content to diverse audiences and effectively 
+communicating key insights. 
+- Coordinated schedules, set measurable goals, and tracked progress to align team activities with 
+organizational objectives. 
+- Collaborated with individuals from diverse backgrounds, applying strong communication skills to build 
+alignment and trust.
