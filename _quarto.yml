@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Melanie Anderson"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/melaniedanderson4216/melaniedanderson4216.github.io1.git
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Melanie Anderson"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: linkedin.com/in/melanie-danielle-anderson/?skipRedirect=true
 
   navbar:
     background: primary
